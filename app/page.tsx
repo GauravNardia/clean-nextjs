@@ -10,6 +10,8 @@ export default function Home() {
       this is the new line added by the developer
       this is the new line added by the developer
      </h1>
+     <p>this is the new line added by the developer i am in the new branch</p>
+     <p>this is the new line added by the developer</p>
     </div>
   );
 }
