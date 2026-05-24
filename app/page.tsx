@@ -8,7 +8,7 @@ export default function Home() {
         <p>Im testing the github autodeploy webhook to better vercel</p>
         <p>NEXT_PUBLIC_URL: {process.env.NEXT_PUBLIC_URL}</p>
         <h1>This is production/preview testing 8</h1>
-        <p>this is previewwwwwwwwww</p>
+        <p>this is previewwwwwwwwww navbar branch</p>
       </div>
     </div>
   );
