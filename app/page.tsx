@@ -3,14 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <h1 className="bg-blue-500 text-white text-2xl">Auto deploy testing updations</h1>
-      <h1>2nd time pushing in prod managed</h1>
-      <h1>3rd time pushing in prod managed</h1>
-      <h1>4th time pushing in prod managed</h1>
-      <h1>5th time pushing in prod managed</h1>
-      <h1>6th time pushing in prod managed</h1>
-      <h1>7th time pushing in prod managed</h1>
-      <h1>9th time pushing in prod managed</h1>
+      <h1>Hello Guillermo Rauch from Next.js</h1>
     </div>
   );
 }
